@@ -1,4 +1,4 @@
-set_property PACKAGE_PIN AB8 [get_ports pcie_ref_clk_p]
+set_property PACKAGE_PIN AD8 [get_ports pcie_ref_clk_p]
 create_clock -period 10.000 -name pcie_ref_clk_p -waveform {0.000 5.000} [get_ports pcie_ref_clk_p]
 
 set_property PACKAGE_PIN AP4 [get_ports {pcie_mgt_rxp[0]}]
