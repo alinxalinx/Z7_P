@@ -7,19 +7,7 @@
 		│
 		├── hardware
 		│	│
-		│	├── AXU2CG-E 
-		│	│	│
-		│	│	└─ design_1_wrapper.xsa	
-		│	│
-		│	├── AXU3EG 
-		│	│	│
-		│	│	└─ design_1_wrapper.xsa	
-		│	│
-		│	├── AXU4EV-E 
-		│	│	│
-		│	│	└─ design_1_wrapper.xsa	
-		│	│
-		│	└── AXU5EV-E 
+		│	└──── Z7-P 
 		│		│	
 		│	 	└─ design_1_wrapper.xsa	
 		│
