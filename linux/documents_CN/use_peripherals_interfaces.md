@@ -2,7 +2,7 @@
 ## 在LINUX中使用开发板上的接口和外设
 
 ---
-- AXU2CG-E、AXU3EG、AXU4EV-E、AXU5EV-E开发板上有这些接口和外设：\
+- Z7-P开发板上有这些接口和外设：\
 ![](../.images_for_documents/35.png)\
 ①LEDS、KEYS\
 ②M.2\
