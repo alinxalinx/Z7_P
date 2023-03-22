@@ -1,7 +1,7 @@
 [Back to Home](../)
 ## Use the interfaces and peripherals on the development board in LINUX
 ---
--These interfaces and peripherals are available on the AXU2CG-E, AXU3EG, AXU4EV-E, and AXU5EV-E development boards :\
+-These interfaces and peripherals are available on the Z7-P development boards :\
 ![](../.images_for_documents/35.png)\
 ①LEDS、KEYS\
 ②M.2\
