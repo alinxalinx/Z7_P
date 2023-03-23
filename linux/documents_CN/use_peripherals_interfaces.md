@@ -138,7 +138,7 @@ route
 最后会显示ping的结果和网口link的速度。
 
 ---
-### ⑥USB x 4
+### ⑥USB TYPE-C
 #### 6.1什么是USB
 USB是Universal Serial Bus的缩写，它是一种通用的数据传输标准，用于将计算机或其他设备与其他设备连接，包括打印机、键盘、鼠标、扫描仪、数字相机、移动设备和其他各种外部设备。\
 随着技术的不断发展，USB的版本也在不断更新。USB 1.0是最早的版本，传输速度很慢，但是随着USB 2.0的推出，传输速度得到了显著提高。USB 3.0和USB 3.1是更快的版本，提供更高的传输速度和更多的功率。同时，USB还可以支持不同的数据传输协议，包括HID（人体接口设备）、音频、视频和存储设备等。\
@@ -169,7 +169,7 @@ PL_UART区别于PS_UART，是ZYNQMP芯片中FPGA端(也叫做PL端)的UART接口
 ![](../.images_for_documents/63.png)\
 在串口工具中发送一些数据，可以看到系统中收到了这些数据：\
 ![](../.images_for_documents/64.png)\
-在键盘上按*ctrl v*退出*cat /dev/ttyPS1*命令，然后用命令：\
+在键盘上按*ctrl c*退出*cat /dev/ttyPS1*命令，然后用命令：\
 `echo "PL_UART test" > /dev/ttyPS1`\
 通过PL_UART发送数据*PL_UART test* 到PC，PC上串口工具可以收到数据：\
 ![](../.images_for_documents/65.png)
