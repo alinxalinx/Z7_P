@@ -137,7 +137,7 @@ Run the *eth_test.sh*  script in *~/shells_for_testing_peripheral_devices/*. Thi
 Finally, the result of the ping and the speed of the network interface link will be print.
 
 ---
-### ⑥USB x 4
+### ⑥USB TYPE-C
 #### 6.1What is USB
 USB is the abbreviation of Universal Serial Bus. It is a universal data transmission standard used to connect computers or other devices with other devices, including printers, keyboards, mice, scanners, digital cameras, mobile devices and other external devices.\
 With the continuous development of technology, the version of USB is also constantly updated. USB 1.0 is the earliest version and the transmission speed is very slow, but with the introduction of USB 2.0, the transmission speed has been significantly improved. USB 3.0 and USB 3.1 are faster versions, providing higher transmission speed and more power. At the same time, USB can also support different data transmission protocols, including HID (human interface device), audio, video and storage devices.\
